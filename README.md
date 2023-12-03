@@ -1,4 +1,5 @@
-### Hi there 👋
+<h3 align="center">Hi, Everyone 👋</h3>
+<br>
 
 <p align="center">
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg alt=php width="30" height="30"/>

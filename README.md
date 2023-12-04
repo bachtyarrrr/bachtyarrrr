@@ -18,11 +18,11 @@
 
 <!-- ![](https://activity-graph.herokuapp.com/graph?username=bachtyarrrr&theme=redical)-->
 
-![](https://komarev.com/ghpvc/?username=bachtyarrrr)
+<!-- ![](https://komarev.com/ghpvc/?username=bachtyarrrr) -->
 
 <br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bachtyarrrr" alt="blueedge"/>
+  <img src="https://komarev.com/ghpvc/?username=bachtyarrrr&color=green" alt="green"/>
 </p>
 <br>
 

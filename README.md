@@ -1,43 +1,35 @@
-<h2 align="center">Hi, Everyone 👋</h2>
-<br>
+<h1 align="center">Hi 👋, I'm Nurmansyah Putra Bachtyar</h1>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<p align="center">
-  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg alt=php width="30" height="30"/>
-  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg alt=laravel width="30" height="30"/>
-  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=javascript width="30" height="30"/>
-  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg alt=html5 width="30" height="30"/>
-  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg alt=css3 width="30" height="30"/>
-  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg alt=nodejs width="30" height="30"/>
-  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg alt=express width="30" height="30"/>
-  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="30" height="30"/>
-  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg alt=git width="30" height="30"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bachtyarrrr&label=Profile%20views&color=0e75b6&style=flat" alt="bachtyarrrr" /> </p>
+
+- 🔭 I’m currently working on [Api-Backend With Nestjs and Prisma](https://github.com/bachtyarrrr/api-backend.git)
+
+- 🌱 I’m currently learning **Reactjs, Nestjs**
+
+- 👯 I’m looking to collaborate on [Pengembangan Sistem Antrian](https://github.com/Sistem-Antrian-Online)
+
+- 🤝 Looking my web portfolio [Portofolio](https://bachtyarrr.vercel.app/)
+
+- 👨‍💻 All of my projects are available at [https://bachtyarrr.vercel.app/](https://bachtyarrr.vercel.app/)
+
+- 💬 Ask me about **Reactjs, PHP, HTML, CSS, PHP, Laravel**
+
+- 📫 How to reach me **nurmansyahbachtyar@gmail.com**
+
+- 📄 Know about my experiences [https://bachtyarrr.vercel.app/](https://bachtyarrr.vercel.app/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nurmansyah putra bachtyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurmansyah putra bachtyar" height="30" width="40" /></a>
+<a href="https://fb.com/nurmansyah putra bachtyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nurmansyah putra bachtyar" height="30" width="40" /></a>
+<a href="https://instagram.com/bachtyarrrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bachtyarrrr" height="30" width="40" /></a>
+<a href="https://dribbble.com/nurmansyah putra bachtyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="nurmansyah putra bachtyar" height="30" width="40" /></a>
 </p>
 
-| ![](https://github-readme-stats.vercel.app/api?username=bachtyarrrr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bachtyarrrr&layout=compact&theme=tokyonight&langs_count=10) |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<!-- ![](https://activity-graph.herokuapp.com/graph?username=bachtyarrrr&theme=redical)-->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bachtyarrrr&show_icons=true&locale=en&layout=compact" alt="bachtyarrrr" /></p>
 
-<!-- ![](https://komarev.com/ghpvc/?username=bachtyarrrr) -->
-
-<br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bachtyarrrr&color=green" alt="green"/>
-</p>
-<br>
-
-
-<!--
-**bachtyarrrr/bachtyarrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bachtyarrrr&show_icons=true&locale=en" alt="bachtyarrrr" /></p>

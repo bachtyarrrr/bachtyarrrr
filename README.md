@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bachtyarrrr&label=Profile%20views&color=0e75b6&style=flat" alt="bachtyarrrr" /> </p>
 
-- 🔭 I’m currently working on [Api-Backend With Nestjs and Prisma](https://github.com/bachtyarrrr/api-backend.git)
-
 - 🌱 I’m currently learning **Reactjs, Nestjs**
 
 - 👯 I’m looking to collaborate on [Pengembangan Sistem Antrian](https://github.com/Sistem-Antrian-Online)

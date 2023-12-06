@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **nurmansyahbachtyar@gmail.com**
 
-- 📄 Know about my experiences [https://bachtyarrr.vercel.app/](https://bachtyarrr.vercel.app/)
+- 📄 Know about my experiences [LinkedIn](https://linkedin.com/in/nurmansyah-putra-bachtyar)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

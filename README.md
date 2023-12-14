@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **nurmansyahbachtyar@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn](https://linkedin.com/in/nurmansyah-putra-bachtyar)
+- 📄 Know about my experiences [LinkedIn](https://linkedin.com/in/nurmansyah-bachtyar)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
